@@ -1,0 +1,19 @@
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.log
+~$*
+
+# Power BI temporary files
+*.pbix.lock
+
+# Editor settings
+.vscode/
+.idea/

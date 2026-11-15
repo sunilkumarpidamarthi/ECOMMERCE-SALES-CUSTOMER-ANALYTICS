@@ -1,0 +1,303 @@
+"customer_id","first_name","last_name","email","city","registration_date","acquisition_channel"
+10001,Pooja,Mishra,pooja.mishra1@example.com,Pune,"2025-03-28",Paid Ads
+10002,Arjun,Chowdhury,arjun.chowdhury2@example.com,Hyderabad,"2023-07-06",Organic Search
+10003,Arjun,Singh,arjun.singh3@example.com,Kochi,"2025-05-14",Organic Search
+10004,Priya,Khan,priya.khan4@example.com,Ahmedabad,"2025-08-16",Social Media
+10005,Rohan,Sharma,rohan.sharma5@example.com,"","2023-08-23",Social Media
+10006,Vikram,Verma,vikram.verma6@example.com,Delhi,"2023-08-17",Referral
+10007,Sai,Pillai,sai.pillai7@example.com,Delhi,"2023-01-07",Email Campaign
+10008,Vikram,Singh,vikram.singh8@example.com,Bengaluru,"2025-11-05",Social Media
+10009,Meera,Gupta,meera.gupta9@example.com,Pune,"2023-11-10",Paid Ads
+10010,Rohan,Sharma,rohan.sharma10@example.com,Kolkata,"2024-10-25",Organic Search
+10011,Vihaan,Iyer,vihaan.iyer11@example.com,Mumbai,"2024-09-21",Organic Search
+10012,Reyansh,"",reyansh.patel12@example.com,Kolkata,"2023-06-25",Organic Search
+10013,Vikram,Rao,vikram.rao13@example.com,Kolkata,"2023-09-20",Email Campaign
+10014,Sai,Joshi,sai.joshi14@example.com,Kochi,"2025-12-16",Referral
+10015,Ishaan,Gupta,ishaan.gupta15@example.com,Jaipur,"2024-09-30",Social Media
+10016,Kavya,Pillai,kavya.pillai16@example.com,Mumbai,"2023-09-05",Paid Ads
+10017,Aditya,Verma,aditya.verma17@example.com,Kochi,"2023-02-13",Email Campaign
+10018,Reyansh,Nair,reyansh.nair18@example.com,Bengaluru,"2023-01-15",Organic Search
+10019,Reyansh,Patel,reyansh.patel19@example.com,Pune,"2023-03-06",Organic Search
+10020,Rahul,Nair,rahul.nair20@example.com,Kolkata,"2024-07-24",""
+10021,Rohan,Rao,rohan.rao21@example.com,Mumbai,"2025-08-26",Referral
+10022,Sneha,Gupta,sneha.gupta22@example.com,Bengaluru,"2023-07-13",Referral
+10023,Ira,Mishra,ira.mishra23@example.com,Kolkata,"2025-04-21",Organic Search
+10024,Nikhil,Kumar,nikhil.kumar24@example.com,Jaipur,"2023-05-05",Social Media
+10025,Vihaan,Nair,vihaan.nair25@example.com,Mumbai,"2024-01-28",Email Campaign
+10026,  KAVYA ,Rao,kavya.rao26@example.com,Chennai,"2025-05-14",Social Media
+10027,Kavya,Nair,kavya.nair27@example.com,Kolkata,"2023-06-04",Email Campaign
+10028,Vihaan,Reddy,vihaan.reddy28@example.com,Bengaluru,"2023-01-31",Paid Ads
+10029,Sai,Mishra,sai.mishra29@example.com,Kolkata,"2025-09-21",Paid Ads
+10030,Priya,Reddy,priya.reddy30@example.com,Jaipur,"2023-12-04",Organic Search
+10031,Priya,Joshi,priya.joshi31@example.com,Delhi,"2025-07-20",Referral
+10032,Sanjay,Chowdhury,sanjay.chowdhury32@example.com, hyderabad ,"2023-11-14",Social Media
+10033,Ishaan,Reddy,ishaan.reddy33@example.com,Pune,"2023-05-05",Organic Search
+10034,Vivaan,Chowdhury,vivaan.chowdhury34@example.com,Ahmedabad,"2025-10-26",Paid Ads
+10035,Vivaan,Patel,vivaan.patel35@example.com,Bengaluru,"2024-01-16",Email Campaign
+10036,Aditya,Nair,aditya.nair36@example.com,Bengaluru,"2025-04-06",Email Campaign
+10037,Reyansh,Reddy,reyansh.reddy37@example.com,Jaipur,"2023-06-17",Email Campaign
+10038,Pooja,Verma,pooja.verma38@example.com,Mumbai,"2024-06-18",Social Media
+10039,Reyansh,Joshi,reyansh.joshi39@example.com,Chennai,"2025-03-21",Social Media
+10040,Kavya,Verma,kavya.verma40@example.com,Hyderabad,"2023-05-29",Referral
+10041,Kiran,Kumar,kiran.kumar41@example.com,Ahmedabad,"2023-05-31",Paid Ads
+10042,Rahul,Joshi,rahul.joshi42@example.com,Pune,"2023-09-29",Organic Search
+10043,Reyansh,Iyer,reyansh.iyer43@example.com,BENGALURU,"2024-08-06",Referral
+10044,Rohan,Das,rohan.das44@example.com,Hyderabad,"2025-12-19",Email Campaign
+10045,Diya,Kumar,diya.kumar45@example.com,Delhi,"2023-10-03",Organic Search
+10046,Vihaan,Rao,vihaan.rao46@example.com,Delhi,"2024-07-11",Email Campaign
+10047,Ishaan,Verma,ishaan.verma47@example.com,Delhi,"2024-02-21",Email Campaign
+10048,Neha,Joshi,neha.joshi48@example.com,Bengaluru,"2023-04-15",Referral
+10049,Ananya,Reddy,ananya.reddy49@example.com,Pune,"2023-01-08",Paid Ads
+10050,Meera,Joshi,meera.joshi50@example.com,Kolkata,"2023-11-27",Email Campaign
+10051,Sanjay,Mishra,sanjay.mishra51@example.com,Bengaluru,"2023-01-20",Organic Search
+10052,Sanjay,Rao,sanjay.rao52@example.com,Pune,"2023-03-15",Email Campaign
+10053,Rohan,Rao,rohan.rao53@example.com,Chennai,"2025-05-30",Organic Search
+10054,Diya,Iyer,diya.iyer54@example.com,Pune,"2023-03-23",Paid Ads
+10055,Nikhil,Nair,nikhil.nair55@example.com,Pune,"2023-07-30",Email Campaign
+10056,Sneha,Rao,sneha.rao56@example.com,Chennai,"31/13/2024",Paid Ads
+10057,Sneha,Sharma,sneha.sharma57@example.com,Pune,"2024-01-03",Referral
+10058,Nikhil,Nair,nikhil.nair58@example.com,Chennai,"2024-06-30",Organic Search
+10059,Priya,Reddy,priya.reddy59@example.com,Mumbai,"2025-08-21",Paid Ads
+10060,Kavya,Iyer,kavya.iyer60@example.com,Mumbai,"2024-09-17",Paid Ads
+10061,Aarav,Gupta,aarav.gupta61@example.com,Pune,"2025-03-27",Social Media
+10062,Aditya,Joshi,aditya.joshi62@example.com,Ahmedabad,"2024-12-20",Referral
+10063,Nikhil,Verma,nikhil.verma63@example.com,Bengaluru,"2023-02-26",Social Media
+10064,Sai,Joshi,sai.joshi64@example.com,Bengaluru,"2023-03-20",Email Campaign
+10065,Sneha,Iyer,sneha.iyer65@example.com,Jaipur,"2024-10-04",Email Campaign
+10066,Rahul,Kumar,rahul.kumar66@example.com,Kochi,"2025-02-27",Paid Ads
+9999,Ananya,Reddy,ananya.reddy67@example.com,Hyderabad,"2025-06-12",Email Campaign
+10068,Rohan,Gupta,rohan.gupta68@example.com,Jaipur,"2025-01-15",Organic Search
+10069,Nikhil,Verma,nikhil.verma69@example.com,Bengaluru,"2024-10-04",Social Media
+10070,Rahul,Das,rahul.das70@example.com,Pune,"2025-04-16",Referral
+10071,Sanjay,Das,sanjay.das71@example.com,Mumbai,"2023-09-18",Referral
+10072,Nikhil,Khan,nikhil.khan72@example.com,Kochi,"2023-12-23",Email Campaign
+10073,Diya,Khan,diya.khan73@example.com,Delhi,"2023-01-01",Social Media
+10074,Ishaan,Mishra,ishaan.mishra74@example.com,Kolkata,"2024-10-21",Referral
+10075,Kavya,Gupta,kavya.gupta75@example.com,Kolkata,"2025-11-12",Paid Ads
+10076,Nikhil,Patel,nikhil.patel76@example.com,Ahmedabad,"2024-08-04",Email Campaign
+10077,Aadhya,Patel,aadhya.patel77@example.com,Delhi,"2024-04-26",Paid Ads
+10078,Ishaan,Rao, ishaan.rao78@example.com ,Hyderabad,"2023-02-20",Paid Ads
+10079,Neha,Patel,neha.patel79@example.com,Jaipur,"2025-07-21",Email Campaign
+10080,Ishaan,Khan,ishaan.khan80@example.com,Jaipur,"2025-10-09",Paid Ads
+10081,Arjun,Sharma,arjun.sharma81@example.com,Jaipur,"2023-08-07",Paid Ads
+10082,Sai,Pillai,sai.pillai82@example.com,Ahmedabad,"2023-04-13",Paid Ads
+10083,Vihaan,Pillai,vihaan.pillai83@example.com,Kolkata,"2023-10-01",Email Campaign
+10084,Rohan,Verma,rohan.verma84@example.com,Kochi,"2025-06-25",Email Campaign
+10085,Sneha,Pillai,sneha.pillai85@example.com,Kolkata,"2023-11-22",Referral
+10086,Ananya,Nair,ananya.nair86@example.com,Ahmedabad,"2024-07-21",Referral
+10087,Meera,Nair,meera.nair87@example.com,Kolkata,"2024-07-16",Organic Search
+10088,Sanjay,Das,sanjay.das88@example.com,Delhi,"2024-04-25",Social Media
+10089,Aadhya,Patel,aadhya.patel89@example.com,Chennai,"2023-10-11",Paid Ads
+10090,Priya,Rao,priya.rao90@example.com,Bengaluru,"2024-03-14",Referral
+10091,Sneha,Verma,sneha.verma91@example.com,Jaipur,"2025-08-12",Organic Search
+10092,Ishaan,Mishra,ishaan.mishra92@example.com,Kochi,"2025-03-08",Organic Search
+10093,Vikram,Khan,vikram.khan93@example.com,Hyderabad,"2025-09-03",Social Media
+10094,Diya,Khan,diya.khan94@example.com,Ahmedabad,"2025-05-08",Email Campaign
+10095,Kiran,Nair,kiran.nair95@example.com,Mumbai,"2025-09-26",Social Media
+10096,Sneha,Chowdhury,sneha.chowdhury96@example.com,Jaipur,"2023-03-01",Social Media
+10097,Nikhil,Khan,nikhil.khan97@example.com,Kolkata,"2023-12-05",Paid Ads
+10098,Kiran,Sharma,kiran.sharma98@example.com,Kochi,"2025-03-17",Email Campaign
+10099,Nikhil,Sharma,nikhil.sharma99@example.com,Jaipur,"2023-06-21",Paid Ads
+10100,Kavya,Singh,kavya.singh100@example.com,Delhi,"2023-04-13",Referral
+10101,Aadhya,Gupta,aadhya.gupta101@example.com,Pune,"2025-07-20",Social Media
+10102,Vikram,Khan,vikram.khan102@example.com,Jaipur,"2024-07-23",Social Media
+10103,Aditya,Chowdhury,aditya.chowdhury103@example.com,Ahmedabad,"2023-02-09",Organic Search
+10104,Ira,Nair,ira.nair104@example.com,Hyderabad,"2023-05-21",Organic Search
+10105,Reyansh,Gupta,reyansh.gupta105@example.com,Kochi,"2023-02-11",Paid Ads
+10106,Reyansh,Rao,reyansh.rao106@example.com,Bengaluru,"2025-08-27",Email Campaign
+10107,Ishaan,Pillai,ishaan.pillai107@example.com,Pune,"2024-06-08",Paid Ads
+10108,Kiran,Kumar,kiran.kumar108@example.com,Delhi,"2023-12-02",Organic Search
+10109,Pooja,Sharma,pooja.sharma109@example.com,Kochi,"2024-09-30",Referral
+10110,Priya,Gupta,priya.gupta110@example.com,Kochi,"2023-06-05",Paid Ads
+10111,Vihaan,Das,vihaan.das111@example.com,Kochi,"2023-09-05",Organic Search
+10112,Ira,Mishra,ira.mishra112@example.com,Bengaluru,"2025-01-28",Email Campaign
+10113,Meera,Verma,meera.verma113@example.com,Jaipur,"2023-01-26",Referral
+10114,Vihaan,Mishra,vihaan.mishra114@example.com,Kolkata,"2025-01-11",Paid Ads
+10115,Sneha,Singh,sneha.singh115@example.com,Delhi,"2025-12-04",Email Campaign
+10116,Rohan,Chowdhury,rohan.chowdhury116@example.com,Jaipur,"2025-08-10",Email Campaign
+10117,Ananya,Verma,ananya.verma117@example.com,Bengaluru,"2024-05-17",Social Media
+10118,Kavya,Nair,kavya.nair118@example.com,Kochi,"2025-08-09",Email Campaign
+10119,Nikhil,Khan,nikhil.khan119@example.com,Hyderabad,"2024-11-19",Referral
+10120,Aadhya,Singh,aadhya.singh120@example.com,Mumbai,"2025-09-25",Social Media
+10121,Ananya,Verma,ananya.verma121@example.com,Kochi,"2024-07-26",Social Media
+10122,Rohan,Sharma,rohan.sharma122@example.com,Mumbai,"2025-11-24",Organic Search
+10123,Reyansh,Mishra,reyansh.mishra123@example.com,Ahmedabad,"2025-09-27",Paid Ads
+10124,Sanjay,Chowdhury,sanjay.chowdhury124@example.com,Kolkata,"2025-10-02",Organic Search
+10125,Aditya,Das,aditya.das125@example.com,Jaipur,"2024-03-29",Paid Ads
+10126,Diya,Iyer,diya.iyer126@example.com,Ahmedabad,"2025-08-27",Email Campaign
+10127,Ira,Mishra,ira.mishra127@example.com,Pune,"2024-11-08",Referral
+10128,Ananya,Das,ananya.das128@example.com,Mumbai,"2024-05-29",Organic Search
+10129,Divya,Gupta,divya.gupta129@example.com,Bengaluru,"2024-10-08",Email Campaign
+10130,Vikram,Singh,vikram.singh130@example.com,Mumbai,"2024-01-28",Referral
+10131,Ananya,Das,ananya.das131@example.com,Mumbai,"2023-07-25",Social Media
+10132,Reyansh,Iyer,reyansh.iyer132@example.com,Delhi,"2024-01-03",Organic Search
+10133,Sanjay,Rao,sanjay.rao133@example.com,Hyderabad,"2024-07-15",Organic Search
+10134,Rohan,Das,rohan.das134@example.com,Kolkata,"2023-09-16",Organic Search
+10135,Aarav,Das,aarav.das135@example.com,Kolkata,"2025-08-19",Referral
+10136,Aadhya,Singh,aadhya.singh136@example.com,Delhi,"2023-04-16",Referral
+10137,Vihaan,Patel,vihaan.patel137@example.com,Kolkata,"2025-03-31",Organic Search
+10138,Pooja,Reddy,pooja.reddy138@example.com,Chennai,"2023-11-07",Email Campaign
+10139,Diya,Patel,diya.patel139@example.com,Bengaluru,"2024-05-23",Email Campaign
+10140,Vikram,Mishra,vikram.mishra140@example.com,Ahmedabad,"2024-04-07",Referral
+10141,Kavya,Pillai,kavya.pillai141@example.com,Kochi,"2024-08-31",Referral
+10142,Diya,Reddy,diya.reddy142@example.com,Mumbai,"2023-07-23",Paid Ads
+10143,Ananya,Patel,ananya.patel143@example.com,Mumbai,"2023-11-18",Paid Ads
+10144,Rohan,Patel,rohan.patel144@example.com,Hyderabad,"2023-11-17",Referral
+10145,Kavya,Chowdhury,kavya.chowdhury145@example.com,Hyderabad,"2024-08-19",Paid Ads
+10146,Diya,Das,diya.das146@example.com,Bengaluru,"2025-07-18",Paid Ads
+10147,Ananya,Gupta,ananya.gupta147@example.com,Bengaluru,"2025-05-20",Email Campaign
+10148,Reyansh,Rao,reyansh.rao148@example.com,Chennai,"2024-06-28",Organic Search
+10149,Vivaan,Singh,vivaan.singh149@example.com,Kochi,"2024-09-21",Email Campaign
+10150,Diya,Pillai,diya.pillai150@example.com,Kolkata,"2023-09-12",Social Media
+10151,Sanjay,Khan,sanjay.khan151@example.com,Ahmedabad,"2024-07-11",Email Campaign
+10152,Neha,Pillai,neha.pillai152@example.com,Kochi,"2023-06-14",Organic Search
+10153,Sneha,Verma,sneha.verma153@example.com,Hyderabad,"2024-05-27",Organic Search
+10154,Reyansh,Sharma,reyansh.sharma154@example.com,Kochi,"2024-07-05",Organic Search
+10155,Vikram,Singh,vikram.singh155@example.com,Ahmedabad,"2025-08-21",Referral
+10156,Ananya,Singh,ananya.singh156@example.com,Kolkata,"2025-06-11",Organic Search
+10157,Neha,Iyer,neha.iyer157@example.com,Pune,"2025-04-16",Social Media
+10158,Nikhil,Kumar,nikhil.kumar158@example.com,Pune,"2023-11-26",Referral
+10159,Sanjay,Chowdhury,sanjay.chowdhury159@example.com,Jaipur,"2024-08-13",Email Campaign
+10160,Vivaan,Pillai,vivaan.pillai160@example.com,Pune,"2023-06-30",Social Media
+10161,Aadhya,Kumar,aadhya.kumar161@example.com,Ahmedabad,"2025-04-07",Organic Search
+10162,Nikhil,Pillai,nikhil.pillai162@example.com,Hyderabad,"2025-04-26",Paid Ads
+10163,Rahul,Iyer,rahul.iyer163@example.com,Kolkata,"2025-10-17",Organic Search
+10164,Ishaan,Joshi,ishaan.joshi164@example.com,Delhi,"2023-09-26",Referral
+10165,Sanjay,Chowdhury,sanjay.chowdhury165@example.com,Hyderabad,"2023-09-06",Email Campaign
+10166,Reyansh,Singh,reyansh.singh166@example.com,Ahmedabad,"2024-09-28",Organic Search
+10167,Rohan,Mishra,rohan.mishra167@example.com,Mumbai,"2023-07-10",Organic Search
+10168,Kavya,Kumar,kavya.kumar168@example.com,Kolkata,"2023-11-12",Social Media
+10169,Rahul,Joshi,rahul.joshi169@example.com,Kolkata,"2025-04-30",Referral
+10170,Reyansh,Pillai,reyansh.pillai170@example.com,Jaipur,"2023-10-24",Paid Ads
+10171,Kiran,Rao,kiran.rao171@example.com,Delhi,"2023-05-23",Referral
+10172,Aadhya,Joshi,aadhya.joshi172@example.com,Delhi,"2023-01-06",Social Media
+10173,Pooja,Chowdhury,pooja.chowdhury173@example.com,Kolkata,"2023-11-01",Email Campaign
+10174,Neha,Iyer,neha.iyer174@example.com,Ahmedabad,"2024-11-11",Email Campaign
+10175,Priya,Pillai,priya.pillai175@example.com,Mumbai,"2024-10-21",Paid Ads
+10176,Pooja,Khan,pooja.khan176@example.com,Jaipur,"2024-04-23",Organic Search
+10177,Aadhya,Chowdhury,aadhya.chowdhury177@example.com,Jaipur,"2025-02-19",Paid Ads
+10178,Neha,Reddy,neha.reddy178@example.com,Ahmedabad,"2023-09-16",Email Campaign
+10179,Aadhya,Kumar,aadhya.kumar179@example.com,Bengaluru,"2025-06-20",Email Campaign
+10180,Kavya,Sharma,kavya.sharma180@example.com,Jaipur,"2023-10-23",Paid Ads
+10181,Aditya,Chowdhury,aditya.chowdhury181@example.com,Pune,"2024-06-26",Email Campaign
+10182,Sanjay,Khan,sanjay.khan182@example.com,Pune,"2023-06-14",Email Campaign
+10183,Priya,Verma,priya.verma183@example.com,Ahmedabad,"2025-09-26",Organic Search
+10184,Kiran,Patel,kiran.patel184@example.com,Delhi,"2024-04-25",Paid Ads
+10185,Divya,Patel,divya.patel185@example.com,Bengaluru,"2025-06-07",Organic Search
+10186,Kavya,Singh,kavya.singh186@example.com,Hyderabad,"2024-09-05",Organic Search
+10187,Aadhya,Reddy,aadhya.reddy187@example.com,Pune,"2024-08-23",Social Media
+10188,Sneha,Rao,sneha.rao188@example.com,Ahmedabad,"2024-05-15",Referral
+10189,Pooja,Singh,pooja.singh189@example.com,Chennai,"2023-12-15",Organic Search
+10190,Kiran,Khan,kiran.khan190@example.com,Kolkata,"2024-05-08",Email Campaign
+10191,Arjun,Nair,arjun.nair191@example.com,Delhi,"2025-08-02",Referral
+10192,Ananya,Sharma,ananya.sharma192@example.com,Delhi,"2025-08-10",Email Campaign
+10193,Sai,Patel,sai.patel193@example.com,Pune,"2025-06-23",Email Campaign
+10194,Diya,Mishra,diya.mishra194@example.com,Kolkata,"2024-05-27",Social Media
+10195,Ishaan,Khan,ishaan.khan195@example.com,Bengaluru,"2025-09-16",Paid Ads
+10196,Priya,Iyer,priya.iyer196@example.com,Delhi,"2024-08-28",Organic Search
+10197,Nikhil,Khan,nikhil.khan197@example.com,Hyderabad,"2024-07-16",Email Campaign
+10198,Nikhil,Reddy,nikhil.reddy198@example.com,Delhi,"2025-10-14",Paid Ads
+10199,Kiran,Iyer,kiran.iyer199@example.com,Mumbai,"2024-03-24",Email Campaign
+10200,Ananya,Rao,ananya.rao200@example.com,Hyderabad,"2023-07-18",Social Media
+10201,Kavya,Reddy,kavya.reddy201@example.com,Chennai,"2025-01-17",Organic Search
+10202,Diya,Verma,diya.verma202@example.com,Chennai,"2025-04-30",Paid Ads
+10203,Arjun,Iyer,arjun.iyer203@example.com,Ahmedabad,"2025-12-23",Social Media
+10204,Sai,Joshi,sai.joshi204@example.com,Delhi,"2025-09-13",Social Media
+10205,Vihaan,Pillai,vihaan.pillai205@example.com,Chennai,"2023-06-04",Paid Ads
+10206,Nikhil,Khan,nikhil.khan206@example.com,Bengaluru,"2025-01-19",Referral
+10207,Aarav,Joshi,aarav.joshi207@example.com,Kolkata,"2023-09-11",Social Media
+10208,Nikhil,Joshi,nikhil.joshi208@example.com,Pune,"2025-02-19",Organic Search
+10209,Nikhil,Nair,nikhil.nair209@example.com,Hyderabad,"2025-08-23",Email Campaign
+10210,Rohan,Verma,rohan.verma210@example.com,Bengaluru,"2024-03-29",Referral
+10211,Sanjay,Das,sanjay.das211@example.com,Bengaluru,"2025-04-16",Paid Ads
+10212,Vivaan,Reddy,vivaan.reddy212@example.com,Kolkata,"2024-09-15",Organic Search
+10213,Vihaan,Nair,vihaan.nair213@example.com,Jaipur,"2023-10-05",Referral
+10214,Ira,Mishra,ira.mishra214@example.com,Jaipur,"2023-11-13",Organic Search
+10215,Neha,Mishra,neha.mishra215@example.com,Hyderabad,"2024-07-26",Social Media
+10216,Ishaan,Pillai,ishaan.pillai216@example.com,Mumbai,"2025-06-29",Social Media
+10217,Vihaan,Iyer,vihaan.iyer217@example.com,Hyderabad,"2025-01-04",Referral
+10218,Ananya,Gupta,ananya.gupta218@example.com,Kolkata,"2023-09-08",Organic Search
+10219,Nikhil,Gupta,nikhil.gupta219@example.com,Hyderabad,"2023-02-13",Social Media
+10220,Reyansh,Rao,reyansh.rao220@example.com,Bengaluru,"2024-02-25",Email Campaign
+10221,Ishaan,Gupta,ishaan.gupta221@example.com,Pune,"2024-04-22",Paid Ads
+10222,Kiran,Sharma,kiran.sharma222@example.com,Chennai,"2024-07-21",Paid Ads
+10223,Rohan,Joshi,rohan.joshi223@example.com,Bengaluru,"2023-12-24",Organic Search
+10224,Arjun,Sharma,arjun.sharma224@example.com,Mumbai,"2025-01-03",Email Campaign
+10225,Aadhya,Sharma,aadhya.sharma225@example.com,Delhi,"2023-12-23",Organic Search
+10226,Arjun,Mishra,arjun.mishra226@example.com,Bengaluru,"2025-12-13",Organic Search
+10227,Neha,Pillai,neha.pillai227@example.com,Ahmedabad,"2025-01-11",Email Campaign
+10228,Vihaan,Pillai,vihaan.pillai228@example.com,Mumbai,"2025-10-28",Email Campaign
+10229,Vivaan,Das,vivaan.das229@example.com,Hyderabad,"2025-07-27",Organic Search
+10230,Neha,Khan,neha.khan230@example.com,Bengaluru,"2025-05-23",Referral
+10231,Sanjay,Pillai,sanjay.pillai231@example.com,Bengaluru,"2023-05-31",Social Media
+10232,Kiran,Rao,kiran.rao232@example.com,Chennai,"2023-05-15",Social Media
+10233,Kiran,Verma,kiran.verma233@example.com,Kochi,"2025-02-19",Email Campaign
+10234,Diya,Pillai,diya.pillai234@example.com,Kochi,"2025-11-01",Referral
+10235,Vihaan,Kumar,vihaan.kumar235@example.com,Jaipur,"2024-03-16",Referral
+10236,Reyansh,Mishra,reyansh.mishra236@example.com,Kolkata,"2024-11-25",Referral
+10237,Sneha,Kumar,sneha.kumar237@example.com,Jaipur,"2024-10-02",Social Media
+10238,Nikhil,Joshi,nikhil.joshi238@example.com,Chennai,"2025-02-05",Referral
+10239,Aditya,Patel,aditya.patel239@example.com,Bengaluru,"2023-06-24",Referral
+10240,Vihaan,Iyer,vihaan.iyer240@example.com,Ahmedabad,"2023-09-24",Organic Search
+10241,Pooja,Verma,pooja.verma241@example.com,Jaipur,"2023-09-08",Social Media
+10242,Nikhil,Mishra,nikhil.mishra242@example.com,Delhi,"2023-04-16",Email Campaign
+10243,Diya,Iyer,diya.iyer243@example.com,Kochi,"2023-08-01",Email Campaign
+10244,Ishaan,Rao,ishaan.rao244@example.com,Mumbai,"2025-09-14",Organic Search
+10245,Ira,Iyer,ira.iyer245@example.com,Delhi,"2023-08-24",Email Campaign
+10246,Reyansh,Mishra,reyansh.mishra246@example.com,Kochi,"2023-02-23",Social Media
+10247,Aarav,Singh,aarav.singh247@example.com,Delhi,"2024-07-13",Social Media
+10248,Ira,Sharma,ira.sharma248@example.com,Chennai,"2024-01-07",Email Campaign
+10249,Nikhil,Khan,nikhil.khan249@example.com,Chennai,"2023-05-23",Organic Search
+10250,Aditya,Gupta,aditya.gupta250@example.com,Jaipur,"2025-02-09",Referral
+10251,Aadhya,Singh,aadhya.singh251@example.com,Delhi,"2025-01-27",Social Media
+10252,Vikram,Patel,vikram.patel252@example.com,Chennai,"2023-04-18",Paid Ads
+10253,Vikram,Reddy,vikram.reddy253@example.com,Delhi,"2023-06-17",Referral
+10254,Nikhil,Mishra,nikhil.mishra254@example.com,Kochi,"2025-09-21",Referral
+10255,Sneha,Joshi,sneha.joshi255@example.com,Ahmedabad,"2024-03-17",Organic Search
+10256,Ira,Mishra,ira.mishra256@example.com,Delhi,"2023-08-16",Email Campaign
+10257,Neha,Das,neha.das257@example.com,Mumbai,"2023-04-04",Referral
+10258,Kiran,Reddy,kiran.reddy258@example.com,Mumbai,"2023-01-16",Social Media
+10259,Ishaan,Rao,ishaan.rao259@example.com,Delhi,"2024-06-07",Social Media
+10260,Vihaan,Sharma,vihaan.sharma260@example.com,Jaipur,"2025-10-15",Paid Ads
+10261,Arjun,Khan,arjun.khan261@example.com,Mumbai,"2025-12-26",Email Campaign
+10262,Rohan,Iyer,rohan.iyer262@example.com,Jaipur,"2023-05-28",Organic Search
+10263,Sneha,Sharma,sneha.sharma263@example.com,Bengaluru,"2025-07-30",Social Media
+10264,Pooja,Mishra,pooja.mishra264@example.com,Jaipur,"2025-04-08",Social Media
+10265,Vihaan,Khan,vihaan.khan265@example.com,Pune,"2023-02-12",Paid Ads
+10266,Kiran,Pillai,kiran.pillai266@example.com,Bengaluru,"2025-01-11",Referral
+10267,Vihaan,Nair,vihaan.nair267@example.com,Kochi,"2025-06-11",Referral
+10268,Rahul,Patel,rahul.patel268@example.com,Delhi,"2025-03-21",Social Media
+10269,Reyansh,Verma,reyansh.verma269@example.com,Bengaluru,"2023-12-11",Email Campaign
+10270,Meera,Kumar,meera.kumar270@example.com,Ahmedabad,"2025-12-22",Paid Ads
+10271,Vikram,Iyer,vikram.iyer271@example.com,Chennai,"2024-12-20",Paid Ads
+10272,Vihaan,Rao,vihaan.rao272@example.com,Mumbai,"2024-06-08",Paid Ads
+10273,Kiran,Rao,kiran.rao273@example.com,Chennai,"2023-06-04",Referral
+10274,Kavya,Pillai,kavya.pillai274@example.com,Pune,"2024-10-23",Paid Ads
+10275,Kavya,Patel,kavya.patel275@example.com,Kolkata,"2025-08-18",Social Media
+10276,Ananya,Reddy,ananya.reddy276@example.com,Ahmedabad,"2024-12-21",Organic Search
+10277,Diya,Pillai,diya.pillai277@example.com,Hyderabad,"2025-07-14",Organic Search
+10278,Ira,Das,ira.das278@example.com,Bengaluru,"2023-06-07",Email Campaign
+10279,Kiran,Khan,kiran.khan279@example.com,Kochi,"2025-08-05",Email Campaign
+10280,Divya,Reddy,divya.reddy280@example.com,Kochi,"2025-07-10",Paid Ads
+10281,Aadhya,Chowdhury,aadhya.chowdhury281@example.com,Chennai,"2025-10-23",Organic Search
+10282,Kavya,Kumar,kavya.kumar282@example.com,Bengaluru,"2024-12-04",Email Campaign
+10283,Meera,Singh,meera.singh283@example.com,Mumbai,"2023-03-22",Referral
+10284,Kavya,Singh,kavya.singh284@example.com,Pune,"2025-01-15",Social Media
+10285,Priya,Mishra,priya.mishra285@example.com,Kochi,"2024-11-23",Organic Search
+10286,Meera,Verma,meera.verma286@example.com,Pune,"2023-05-15",Organic Search
+10287,Rohan,Khan,rohan.khan287@example.com,Delhi,"2024-08-04",Email Campaign
+10288,Arjun,Verma,arjun.verma288@example.com,Kochi,"2023-06-16",Paid Ads
+10289,Ira,Das,ira.das289@example.com,Chennai,"2025-03-13",Email Campaign
+10290,Sanjay,Patel,sanjay.patel290@example.com,Ahmedabad,"2024-09-26",Referral
+10291,Meera,Verma,meera.verma291@example.com,Ahmedabad,"2023-09-19",Organic Search
+10292,Meera,Mishra,meera.mishra292@example.com,Pune,"2025-11-07",Organic Search
+10293,Ira,Das,ira.das293@example.com,Mumbai,"2024-01-05",Social Media
+10294,Vikram,Chowdhury,vikram.chowdhury294@example.com,Mumbai,"2024-01-29",Paid Ads
+10295,Arjun,Patel,arjun.patel295@example.com,Bengaluru,"2024-08-28",Email Campaign
+10296,Vikram,Reddy,vikram.reddy296@example.com,Kochi,"2024-11-20",Paid Ads
+10297,Kiran,Khan,kiran.khan297@example.com,Chennai,"2023-11-12",Paid Ads
+10298,Sanjay,Singh,sanjay.singh298@example.com,Hyderabad,"2025-06-15",Referral
+10299,Ira,Nair,ira.nair299@example.com,Kochi,"2025-06-28",Social Media
+10300,Vikram,Pillai,vikram.pillai300@example.com,Ahmedabad,"2024-04-24",Paid Ads
+10089,Aadhya,Patel,aadhya.patel89@example.com,Chennai,"2023-10-11",Paid Ads
+10100,Kavya,Singh,kavya.singh100@example.com,Chennai,"2023-04-13",Referral

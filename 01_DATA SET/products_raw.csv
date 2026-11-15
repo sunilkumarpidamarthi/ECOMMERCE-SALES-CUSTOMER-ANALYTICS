@@ -1,0 +1,44 @@
+"product_id","product_name","category_id","selling_price","list_price"
+1001,Wireless Mouse,1.0,16092.84,17018.23
+1002,Bluetooth Speaker,1.0,7092.22,7921.75
+1003,  USB-C CABLE ,1.0,18489.84,23167.95
+1004,Smart Watch,1.0,22335.84,24035.19
+1005,Laptop Stand,1.0,10720.47,11352.33
+1006,Power Bank,1.0,5699.36,6848.39
+1007,Cotton T-Shirt,2.0,574.14,637.1
+1008,Running Shoes,2.0,4688.24,5689.1
+1009,Denim Jeans,,1853.91,2274.34
+1010,Backpack,2.0,5741.24,6039.5
+1011,Casual Shirt,2.0,5717.41,7200.75
+1012,Water Bottle,3.0,1799.22,1973.1
+1013,Storage Box,3.0,-499.0,5514.89
+1014,Desk Lamp,3.0,598.82,646.14
+1015,Cookware Set,3.0,4259.35,5243.76
+1016,Bedsheet Set,3.0,4063.57,5156.34
+1017,SQL for Beginners,4.0,896.1,1202.51
+1018,Data Analytics Handbook,4.0,691.09,
+1019,Mystery Novel,4.0,1277.23,1578.09
+1020,Business Basics,4.0,1319.22,1613.68
+1021,Python Workbook,4.0,1114.94,1186.01
+1022,Face Wash,5.0,532.01,604.8
+1023,Moisturizer,5.0,250.6,280.63
+1024,Sunscreen SPF 50,5.0,290.9,329.7
+1025,Shampoo,5.0,1306.8,1515.17
+1026,Lip Balm,5.0,802.34,892.89
+1027,Yoga Mat,6.0,1213.52,1615.19
+1028,Resistance Bands,6.0,2661.53,3280.97
+1029,Football,6.0,849.33,1077.58
+1030,Skipping Rope,6.0,819.93,954.26
+1031,Dumbbell Pair,6.0,3959.19,4917.31
+1032,Building Blocks,7.0,1457.83,1830.14
+1033,Puzzle Set,7.0,2129.7,2731.98
+1034,Toy Car,7.0,687.26,728.24
+1035,Board Game,7.0,890.31,1006.34
+1036,Stuffed Bear,7.0,644.81,859.45
+1037,Green Tea,8.0,1150.64,1316.8
+1038,Almonds 500g,8.0,885.53,1034.91
+1039,Oats Pack,8.0,1196.46,1420.98
+1040,Dark Chocolate,8.0,416.86,468.55
+1041,Coffee Beans,8.0,772.64,872.17
+1005,Laptop Stand,1.0,10720.47,11352.33
+1021,Python Workbook,4.0,1003.45,1186.01

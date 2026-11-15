@@ -1,0 +1,1003 @@
+"order_id","customer_id","order_date","status","shipping_method"
+50001,10159,"2025-04-25",Cancelled,Standard
+50002,10189,"2025-11-25",Cancelled,Express
+50003,10237,"2024-10-15",Shipped,Same Day
+50004,10271,"2025-03-04",Returned,Standard
+50005,10071,"2024-09-13",Delivered,Express
+50006,10191,"21/07/2025",Cancelled,Same Day
+50007,10265,"2024-05-07",Delivered,Standard
+50008,10140,"2025-04-05",Cancelled,Standard
+50009,10224,"2024-04-03",Cancelled,Standard
+50010,10231,"2024-12-23",Cancelled,Express
+50011,10028,"2025-02-09",Delivered,Standard
+50012,10198,"2024-03-24",Delivered,Standard
+50013,10164,"2024-04-11",Processing,Same Day
+50014,10172,"2024-05-29",Delivered,Express
+50015,10242,"2025-12-13",Processing,Same Day
+50016,10241,"2025/14/02",Delivered,Standard
+50017,10010,"2024-09-19",Delivered,Standard
+50018,10281,"2025-09-15",Delivered,Standard
+50019,10148,"2024-08-31",Delivered,Standard
+50020,10123,"2025-03-05",Delivered,Same Day
+50021,10235,"2024-03-05",Delivered,Express
+50022,10275,"2024-01-17",Delivered,Same Day
+50023,10124,"2024-05-27","",Standard
+50024,10181,"2024-09-03",Delivered,Standard
+50025,10044,"2025-06-20",Returned,Standard
+50026,10270,"2025-07-11",Delivered,Same Day
+50027,10284,"2024-01-21",Delivered,Express
+50028,10023,"2025-10-12",Delivered,Express
+50029,10130,"2024-01-17",Delivered,Standard
+50030,10177,"2024-09-03",Shipped,Same Day
+50031,10054,"2025-08-18",Shipped,Express
+50032,10069,"2024-02-15",Delivered,Express
+50033,10090,"2025-12-02",Delivered,Same Day
+50034,10246,"2025-10-08",Delivered,Standard
+50035,10033,"2025-04-13",Delivered,Standard
+50036,10023,"2024-07-23",deliverd,Express
+50037,10159,"2025-06-11",Delivered,Same Day
+50038,10243,"2024-09-16",Delivered,Same Day
+50039,10098,"2024-10-19",Delivered,Standard
+50040,10170,"2024-10-06",Delivered,Express
+50041,10224,"2025-02-13",Shipped,Express
+50042,10174,"2024-07-10",Delivered,Express
+50043,10189,"2025-06-15",Delivered,Standard
+50044,10218,"2024-03-21",Delivered,Standard
+50045,9999,"2024-10-27",Delivered,Standard
+50046,10168,"2025-11-07",Delivered,Express
+50047,10219,"2024-06-19",Shipped,Express
+50048,10229,"2024-02-13",Shipped,Express
+50049,10223,"2024-10-08",Delivered,Standard
+50050,10039,"2025-11-18",Delivered,Express
+50051,10263,"2025-11-26",Delivered,Standard
+50052,10074,"2025-09-14",Delivered,Express
+50053,10018,"2024-05-09",Delivered,""
+50054,10188,"2025-01-05",Delivered,Same Day
+50055,10017,"2025-09-11",Delivered,Express
+50056,10190,"2025-01-15",Delivered,Standard
+50057,10294,"2024-05-20",Delivered,Express
+50058,10161,"2025-10-27",Delivered,Standard
+50059,10014,"2024-07-09",Delivered,Express
+50060,10288,"2024-04-30",Delivered,Express
+50061,10229,"2024-08-07",Returned,Express
+50062,10252,"2024-07-23",Delivered,Standard
+50063,10232,"2024-06-25",Cancelled,Express
+50064,10045,"2025-11-29",Returned,Express
+50065,10178,"2025-12-27",Delivered,Same Day
+50066,10149,"2024-11-03",Processing,Same Day
+50067,10090,"2025-01-05",Delivered,Standard
+50068,10103,"2024-05-22",Delivered,Express
+50069,10014,"2025-01-04",Delivered,Express
+50070,10240,"2025-07-18",Delivered,Standard
+50071,10034,"2024-11-12",Delivered,Same Day
+50072,10246,"2025-06-22",Delivered,Express
+50073,10295,"2024-03-16",Delivered,Express
+50074,10038,"2025-04-05",Delivered,Same Day
+50075,10177,"2024-05-11",Processing,Same Day
+50076,10094,"2024-05-12",Delivered,Standard
+50077,10064,"2025-06-14",Delivered,Standard
+50078,10083,"2024-11-26",Cancelled,Standard
+50079,10178,"2025-06-15",Cancelled,Standard
+50080,10129,"2024-07-20",Delivered,Same Day
+50081,10141,"2024-05-08",Delivered,Same Day
+50082,10274,"2024-04-05",Delivered,Standard
+50083,10298,"2024-06-06",Delivered,Same Day
+50084,10173,"2025-07-31",Delivered,Standard
+50085,10042,"2024-02-16",Cancelled,Same Day
+50086,10136,"2025-10-28",Delivered,Same Day
+50087,10214,"2025-09-24",Delivered,Express
+50088,10280,"2024-10-23",Delivered,Express
+50089,10248,"2024-09-07",Processing,Same Day
+50090,10208,"2024-10-31",Delivered,Same Day
+50091,10031,"2024-06-10",Delivered,Express
+50092,10238,"2024-07-27",Delivered,Standard
+50093,10161,"2024-11-22",Shipped,Express
+50094,10205,"2024-05-13",Shipped,Same Day
+50095,10288,"2024-04-18",Delivered,Express
+50096,10063,"2024-09-30",Delivered,Standard
+50097,10050,"2024-02-21",Delivered,Express
+50098,10215,"2024-09-11",Returned,Standard
+50099,10168,"2025-08-14",Shipped,Standard
+50100,10082,"2025-05-25",Returned,Express
+50101,10256,"2024-11-11",Delivered,Standard
+50102,10202,"2025-06-01",Delivered,Standard
+50103,10111,"2025-08-20",Delivered,Standard
+50104,10145,"2025-05-21",Delivered,Same Day
+50105,10241,"2024-10-19",Delivered,Standard
+50106,10221,"2024-05-17",Cancelled,Same Day
+50107,10188,"2025-02-16",Delivered,Express
+50108,10027,"2025-08-06",Delivered,Express
+50109,10284,"2024-10-22",Delivered,Same Day
+50110,10231,"2025-07-17",Delivered,Same Day
+50111,10061,"2024-05-11",Returned,Express
+50112,10192,"2024-12-13",Delivered,Express
+50113,10074,"2024-07-22",Delivered,Express
+50114,10257,"2024-02-11",Delivered,Standard
+50115,10171,"2025-04-30",Delivered,Standard
+50116,10264,"2024-05-23",Delivered,Same Day
+50117,10164,"2024-06-15",Delivered,Same Day
+50118,10154,"2025-08-30",Delivered,Same Day
+50119,10273,"2025-05-16",Shipped,Express
+50120,10244,"2024-01-18",Delivered,Same Day
+50121,10057,"2025-03-02",Delivered,Same Day
+50122,10014,"2025-09-03",Delivered,Same Day
+50123,10297,"2025-08-14",Delivered,Standard
+50124,10299,"2025-05-06",Delivered,Same Day
+50125,10195,"2024-05-31",Processing,Standard
+50126,10017,"2025-08-09",Cancelled,Standard
+50127,10098,"2024-01-20",Delivered,Express
+50128,10078,"2025-02-26",Shipped,Express
+50129,10257,"2025-09-18",Cancelled,Same Day
+50130,10032,"2025-12-23",Delivered,Standard
+50131,10288,"2024-11-28",Returned,Express
+50132,10270,"2025-01-20",Delivered,Standard
+50133,10236,"2025-06-29",Delivered,Express
+50134,10136,"2025-09-16",Delivered,Standard
+50135,10143,"2025-07-25",Delivered,Express
+50136,10148,"2025-12-22",Delivered,Same Day
+50137,10251,"2024-11-20",Delivered,Same Day
+50138,10141,"2024-10-21",Delivered,Same Day
+50139,10279,"2025-01-23",Cancelled,Express
+50140,10177,"2024-05-29",Delivered,Express
+50141,10041,"2024-12-20",Cancelled,Same Day
+50142,10132,"2025-05-05",Delivered,Same Day
+50143,10139,"2025-07-29",Shipped,Standard
+50144,10056,"2025-09-22",Shipped,Standard
+50145,10125,"2024-02-21",Delivered,Same Day
+50146,10116,"2025-10-15",Delivered,Standard
+50147,10212,"2024-12-04",Shipped,Standard
+50148,10071,"2024-01-06",Returned,Standard
+50149,10209,"2025-10-30",Cancelled,Express
+50150,10245,"2025-10-28",Delivered,Express
+50151,10165,"2024-10-19",Delivered,Standard
+50152,10294,"2024-08-25",Delivered,Same Day
+50153,10020,"2024-06-28",Delivered,Standard
+50154,10019,"2025-02-10",Shipped,Standard
+50155,10149,"2024-02-08",Delivered,Same Day
+50156,10055,"2024-12-09",Delivered,Same Day
+50157,10279,"2025-06-20",Delivered,Standard
+50158,10259,"2025-04-24",Delivered,Standard
+50159,10170,"2024-06-15",Shipped,Same Day
+50160,10132,"2024-07-09",Delivered,Express
+50161,10152,"2025-08-04",Delivered,Standard
+50162,10090,"2025-09-17",Processing,Express
+50163,10219,"2025-06-11",Delivered,Express
+50164,10049,"2024-07-08",Returned,Express
+50165,10166,"2024-09-11",Delivered,Express
+50166,10121,"2025-04-02",Shipped,Express
+50167,10155,"2025-08-19",Shipped,Standard
+50168,10134,"2025-10-31",Delivered,Standard
+50169,10032,"2025-11-14",Delivered,Express
+50170,10082,"2025-02-19",Shipped,Same Day
+50171,10160,"2025-12-07",Delivered,Express
+50172,10189,"2025-09-21",Delivered,Standard
+50173,10245,"2024-06-05",Delivered,Same Day
+50174,10192,"2025-03-01",Shipped,Express
+50175,10276,"2025-11-11",Processing,Standard
+50176,10042,"2025-06-22",Delivered,Same Day
+50177,10186,"2024-03-20",Cancelled,Standard
+50178,10032,"2025-07-14",Cancelled,Standard
+50179,10294,"2025-07-03",Delivered,Express
+50180,10267,"2025-03-28",Delivered,Standard
+50181,10299,"2025-05-15",Delivered,Same Day
+50182,10229,"2024-02-26",Delivered,Same Day
+50183,10213,"2025-04-12",Delivered,Same Day
+50184,10237,"2025-11-19",Processing,Same Day
+50185,10012,"2025-02-09",Delivered,Standard
+50186,10112,"2025-08-15",Delivered,Express
+50187,10177,"2025-12-18",Delivered,Standard
+50188,10036,"2025-04-28",Delivered,Express
+50189,10093,"2024-05-18",Shipped,Same Day
+50190,10216,"2025-01-18",Returned,Express
+50191,10230,"2025-01-21",Delivered,Same Day
+50192,10277,"2024-05-16",Delivered,Express
+50193,10061,"2024-07-01",Returned,Express
+50194,10271,"2024-05-10",Shipped,Standard
+50195,10002,"2024-01-24",Returned,Express
+50196,10279,"2025-03-10",Delivered,Standard
+50197,10127,"2025-04-16",Delivered,Express
+50198,10097,"2024-04-25",Delivered,Same Day
+50199,10215,"2025-09-21",Shipped,Standard
+50200,10124,"2024-07-30",Delivered,Same Day
+50201,10018,"2025-04-02",Delivered,Same Day
+50202,10025,"2024-09-07",Shipped,Express
+50203,10225,"2024-08-27",Delivered,Standard
+50204,10072,"2025-05-30",Returned,Standard
+50205,10295,"2024-11-22",Delivered,Same Day
+50206,10165,"2024-08-30",Delivered,Standard
+50207,10267,"2024-08-14",Delivered,Express
+50208,10032,"2025-07-24",Cancelled,Same Day
+50209,10090,"2025-10-03",Delivered,Same Day
+50210,10254,"2024-02-18",Returned,Same Day
+50211,10196,"2025-06-21",Delivered,Express
+50212,10210,"2024-06-01",Delivered,Standard
+50213,10276,"2025-04-29",Delivered,Standard
+50214,10154,"2025-12-25",Delivered,Express
+50215,10030,"2025-07-29",Delivered,Express
+50216,10286,"2025-06-26",Delivered,Standard
+50217,10131,"2024-07-27",Delivered,Standard
+50218,10231,"2025-01-14",Delivered,Same Day
+50219,10098,"2024-02-22",Delivered,Same Day
+50220,10021,"2024-03-15",Delivered,Same Day
+50221,10287,"2024-08-10",Delivered,Express
+50222,10156,"2024-01-16",Delivered,Standard
+50223,10061,"2025-05-05",Cancelled,Same Day
+50224,10105,"2025-02-10",Cancelled,Same Day
+50225,10165,"2024-10-16",Delivered,Same Day
+50226,10184,"2024-11-11",Delivered,Same Day
+50227,10255,"2025-04-22",Delivered,Same Day
+50228,10241,"2024-11-23",Cancelled,Express
+50229,10161,"2025-02-27",Delivered,Standard
+50230,10075,"2024-01-17",Delivered,Same Day
+50231,10297,"2025-03-03",Delivered,Standard
+50232,10169,"2024-08-23",Delivered,Standard
+50233,10256,"2025-07-17",Delivered,Same Day
+50234,10173,"2024-09-20",Shipped,Express
+50235,10252,"2025-04-16",Delivered,Express
+50236,10087,"2024-05-23",Shipped,Express
+50237,10095,"2025-07-09",Returned,Standard
+50238,10269,"2024-02-04",Processing,Standard
+50239,10025,"2024-01-07",Delivered,Same Day
+50240,10119,"2024-03-10",Shipped,Standard
+50241,10112,"2025-06-01",Delivered,Standard
+50242,10248,"2025-11-06",Delivered,Standard
+50243,10273,"2025-07-18",Delivered,Standard
+50244,10272,"2024-10-08",Delivered,Express
+50245,10009,"2025-05-29",Processing,Same Day
+50246,10221,"2024-07-02",Delivered,Standard
+50247,10269,"2024-06-01",Delivered,Same Day
+50248,10270,"2024-09-15",Processing,Express
+50249,10204,"2024-03-21",Delivered,Express
+50250,10236,"2025-08-01",Delivered,Same Day
+50251,10116,"2024-11-03",Shipped,Standard
+50252,10017,"2024-04-05",Delivered,Express
+50253,10283,"2025-05-02",Delivered,Standard
+50254,10088,"2024-03-25",Delivered,Express
+50255,10170,"2025-08-02",Returned,Standard
+50256,10271,"2024-02-13",Delivered,Same Day
+50257,10291,"2025-05-01",Delivered,Standard
+50258,10144,"2025-07-10",Delivered,Standard
+50259,10092,"2024-11-18",Delivered,Standard
+50260,10074,"2025-12-30",Processing,Standard
+50261,10154,"2024-06-15",Delivered,Same Day
+50262,10200,"2025-11-24",Cancelled,Express
+50263,10197,"2024-05-23",Shipped,Same Day
+50264,10041,"2025-05-27",Shipped,Express
+50265,10028,"2024-04-10",Delivered,Standard
+50266,10175,"2025-09-11",Shipped,Same Day
+50267,10204,"2024-11-30",Delivered,Express
+50268,10231,"2025-05-17",Delivered,Same Day
+50269,10193,"2025-03-18",Delivered,Same Day
+50270,10195,"2024-03-28",Shipped,Express
+50271,10127,"2025-12-31",Delivered,Express
+50272,10079,"2025-01-24",Shipped,Same Day
+50273,10079,"2025-02-02",Delivered,Standard
+50274,10047,"2024-01-06",Cancelled,Express
+50275,10185,"2024-10-03",Delivered,Standard
+50276,10096,"2025-03-17",Delivered,Same Day
+50277,10263,"2025-02-21",Delivered,Standard
+50278,10182,"2025-07-21",Delivered,Same Day
+50279,10167,"2025-01-29",Delivered,Express
+50280,10199,"2024-03-27",Shipped,Same Day
+50281,10125,"2025-08-08",Delivered,Same Day
+50282,10195,"2024-06-22",Delivered,Express
+50283,10138,"2025-05-19",Delivered,Standard
+50284,10223,"2024-10-09",Delivered,Express
+50285,10040,"2025-01-04",Delivered,Standard
+50286,10254,"2025-08-31",Delivered,Express
+50287,10055,"2024-05-18",Delivered,Express
+50288,10171,"2025-09-27",Delivered,Express
+50289,10226,"2024-12-08",Delivered,Same Day
+50290,10070,"2024-11-03",Delivered,Same Day
+50291,10103,"2025-05-05",Delivered,Express
+50292,10164,"2024-10-25",Shipped,Same Day
+50293,10252,"2025-08-12",Shipped,Express
+50294,10193,"2024-10-14",Processing,Express
+50295,10187,"2024-04-26",Cancelled,Standard
+50296,10280,"2024-07-03",Shipped,Same Day
+50297,10014,"2025-04-17",Cancelled,Standard
+50298,10225,"2024-10-25",Processing,Standard
+50299,10210,"2025-11-20",Delivered,Same Day
+50300,10156,"2024-09-04",Delivered,Standard
+50301,10217,"2025-01-21",Delivered,Same Day
+50302,10246,"2025-08-19",Delivered,Same Day
+50303,10215,"2025-07-10",Delivered,Express
+50304,10275,"2025-08-31",Delivered,Standard
+50305,10056,"2024-09-11",Delivered,Express
+50306,10086,"2025-10-24",Delivered,Same Day
+50307,10205,"2024-12-05",Returned,Express
+50308,10055,"2024-01-11",Delivered,Standard
+50309,10262,"2025-06-15",Delivered,Same Day
+50310,10295,"2024-08-14",Delivered,Express
+50311,10238,"2025-11-26",Delivered,Same Day
+50312,10078,"2024-12-19",Returned,Express
+50313,10054,"2024-10-29",Delivered,Standard
+50314,10060,"2024-05-25",Delivered,Express
+50315,10234,"2024-07-30",Delivered,Express
+50316,10244,"2024-04-09",Delivered,Same Day
+50317,10232,"2024-11-22",Delivered,Standard
+50318,10059,"2024-01-24",Processing,Same Day
+50319,10056,"2025-11-24",Processing,Same Day
+50320,10125,"2025-06-12",Delivered,Standard
+50321,10170,"2025-07-27",Delivered,Express
+50322,10119,"2025-02-18",Delivered,Standard
+50323,10222,"2025-02-09",Delivered,Same Day
+50324,10102,"2025-04-05",Delivered,Express
+50325,10003,"2025-12-22",Delivered,Express
+50326,10033,"2025-08-14",Delivered,Same Day
+50327,10096,"2025-01-09",Delivered,Express
+50328,10059,"2024-09-25",Delivered,Express
+50329,10271,"2025-10-16",Delivered,Express
+50330,10201,"2025-08-24",Delivered,Express
+50331,10235,"2025-09-24",Delivered,Same Day
+50332,10153,"2025-09-21",Delivered,Same Day
+50333,10069,"2024-11-16",Delivered,Express
+50334,10060,"2024-07-06",Delivered,Standard
+50335,10262,"2025-02-01",Delivered,Standard
+50336,10295,"2025-01-27",Delivered,Express
+50337,10276,"2025-12-11",Cancelled,Standard
+50338,10285,"2024-06-19",Delivered,Standard
+50339,10096,"2024-11-18",Processing,Same Day
+50340,10028,"2025-01-02",Cancelled,Express
+50341,10070,"2024-07-18",Processing,Same Day
+50342,10259,"2025-10-30",Delivered,Same Day
+50343,10252,"2025-03-01",Shipped,Express
+50344,10251,"2024-06-20",Delivered,Standard
+50345,10113,"2024-10-26",Delivered,Standard
+50346,10276,"2024-10-22",Delivered,Express
+50347,10290,"2025-05-22",Delivered,Standard
+50348,10294,"2024-04-26",Delivered,Same Day
+50349,10188,"2025-07-09",Processing,Standard
+50350,10226,"2025-07-13",Delivered,Express
+50351,10053,"2025-10-31",Shipped,Express
+50352,10017,"2025-04-05",Delivered,Standard
+50353,10225,"2024-04-30",Shipped,Standard
+50354,10108,"2025-08-25",Shipped,Same Day
+50355,10220,"2024-06-18",Delivered,Standard
+50356,10106,"2024-03-01",Delivered,Same Day
+50357,10144,"2025-09-03",Delivered,Express
+50358,10150,"2024-10-23",Delivered,Same Day
+50359,10049,"2024-05-18",Returned,Express
+50360,10031,"2024-10-10",Processing,Standard
+50361,10068,"2024-09-12",Delivered,Express
+50362,10127,"2025-11-23",Delivered,Standard
+50363,10296,"2025-10-09",Delivered,Express
+50364,10193,"2025-04-07",Delivered,Standard
+50365,10207,"2025-06-11",Shipped,Same Day
+50366,10189,"2025-04-10",Cancelled,Express
+50367,10298,"2024-01-03",Processing,Same Day
+50368,10048,"2025-04-14",Delivered,Same Day
+50369,10184,"2024-03-05",Shipped,Express
+50370,10112,"2025-03-15",Processing,Express
+50371,10138,"2024-11-26",Processing,Express
+50372,10281,"2025-08-14",Delivered,Express
+50373,10176,"2025-11-29",Shipped,Standard
+50374,10051,"2025-10-03",Shipped,Express
+50375,10009,"2024-05-07",Cancelled,Standard
+50376,10226,"2025-04-12",Delivered,Express
+50377,10104,"2025-12-06",Cancelled,Same Day
+50378,10155,"2024-06-11",Processing,Express
+50379,10048,"2025-11-01",Delivered,Standard
+50380,10191,"2025-11-11",Cancelled,Standard
+50381,10027,"2025-02-09",Delivered,Same Day
+50382,10120,"2025-03-15",Delivered,Same Day
+50383,10049,"2024-01-02",Delivered,Standard
+50384,10068,"2025-08-30",Delivered,Same Day
+50385,10228,"2024-01-10",Delivered,Express
+50386,10062,"2025-03-08",Shipped,Express
+50387,10037,"2024-08-22",Delivered,Same Day
+50388,10053,"2024-04-15",Delivered,Express
+50389,10071,"2025-01-26",Shipped,Standard
+50390,10074,"2024-03-11",Delivered,Standard
+50391,10085,"2025-03-26",Delivered,Standard
+50392,10078,"2025-02-25",Delivered,Express
+50393,10112,"2024-03-29",Cancelled,Standard
+50394,10064,"2025-08-26",Shipped,Express
+50395,10220,"2024-11-18",Shipped,Standard
+50396,10142,"2025-10-22",Delivered,Same Day
+50397,10146,"2025-12-08",Delivered,Same Day
+50398,10155,"2024-07-29",Delivered,Same Day
+50399,10097,"2025-02-05",Delivered,Standard
+50400,10123,"2025-05-21",Delivered,Standard
+50401,10256,"2025-10-15",Delivered,Same Day
+50402,10007,"2025-01-04",Cancelled,Standard
+50403,10199,"2025-08-05",Delivered,Same Day
+50404,10089,"2025-04-27",Cancelled,Standard
+50405,10009,"2025-08-24",Delivered,Express
+50406,10111,"2024-02-10",Cancelled,Express
+50407,10260,"2024-10-20",Delivered,Same Day
+50408,10213,"2025-03-09",Shipped,Standard
+50409,10275,"2025-07-04",Delivered,Express
+50410,10043,"2024-11-13",Delivered,Standard
+50411,10080,"2025-07-03",Delivered,Same Day
+50412,10034,"2024-11-13",Shipped,Same Day
+50413,10123,"2024-02-29",Delivered,Express
+50414,10060,"2025-04-09",Delivered,Standard
+50415,10159,"2025-11-13",Shipped,Same Day
+50416,10090,"2024-05-02",Delivered,Standard
+50417,10006,"2024-06-16",Delivered,Express
+50418,10268,"2025-06-13",Shipped,Same Day
+50419,10133,"2024-06-19",Delivered,Same Day
+50420,10138,"2024-04-30",Shipped,Standard
+50421,10172,"2025-03-15",Delivered,Standard
+50422,10135,"2025-12-30",Returned,Same Day
+50423,10040,"2025-05-23",Delivered,Express
+50424,10029,"2025-05-26",Processing,Standard
+50425,10189,"2024-06-10",Delivered,Standard
+50426,10294,"2025-11-21",Shipped,Standard
+50427,10261,"2024-01-03",Delivered,Standard
+50428,10126,"2024-02-17",Delivered,Express
+50429,10077,"2024-07-02",Cancelled,Standard
+50430,10284,"2025-11-02",Delivered,Express
+50431,10128,"2025-03-02",Cancelled,Express
+50432,10139,"2024-03-20",Delivered,Standard
+50433,10258,"2025-11-20",Cancelled,Standard
+50434,10115,"2025-06-12",Returned,Express
+50435,10036,"2025-04-21",Processing,Express
+50436,10168,"2024-03-29",Delivered,Standard
+50437,10189,"2024-07-24",Delivered,Express
+50438,10125,"2025-04-20",Delivered,Express
+50439,10101,"2025-07-13",Shipped,Standard
+50440,10078,"2024-01-07",Cancelled,Standard
+50441,10120,"2025-07-08",Delivered,Same Day
+50442,10005,"2024-12-09",Delivered,Same Day
+50443,10193,"2024-11-10",Delivered,Same Day
+50444,10122,"2025-03-05",Delivered,Standard
+50445,10073,"2025-12-29",Delivered,Standard
+50446,10119,"2025-06-16",Delivered,Express
+50447,10235,"2024-03-27",Delivered,Same Day
+50448,10069,"2025-10-14",Processing,Standard
+50449,10291,"2024-03-04",Delivered,Standard
+50450,10122,"2024-10-25",Delivered,Express
+50451,10202,"2025-12-18",Processing,Express
+50452,10163,"2025-04-08",Delivered,Standard
+50453,10104,"2024-05-19",Shipped,Same Day
+50454,10056,"2024-06-08",Delivered,Express
+50455,10239,"2024-11-17",Delivered,Same Day
+50456,10184,"2024-07-31",Delivered,Express
+50457,10136,"2024-05-02",Delivered,Same Day
+50458,10156,"2025-12-22",Shipped,Standard
+50459,10111,"2024-12-01",Delivered,Same Day
+50460,10128,"2024-12-30",Delivered,Standard
+50461,10154,"2024-09-23",Processing,Standard
+50462,10016,"2025-02-18",Processing,Same Day
+50463,10282,"2024-09-12",Delivered,Standard
+50464,10072,"2024-05-04",Delivered,Standard
+50465,10067,"2024-07-21",Processing,Express
+50466,10044,"2025-08-19",Delivered,Standard
+50467,10012,"2024-03-07",Delivered,Same Day
+50468,10228,"2024-05-11",Delivered,Express
+50469,10063,"2024-02-13",Cancelled,Standard
+50470,10087,"2025-08-10",Delivered,Same Day
+50471,10203,"2025-05-23",Delivered,Same Day
+50472,10219,"2024-06-25",Delivered,Standard
+50473,10141,"2024-10-13",Delivered,Standard
+50474,10018,"2025-09-20",Delivered,Standard
+50475,10152,"2025-05-25",Delivered,Same Day
+50476,10246,"2024-03-03",Delivered,Express
+50477,10071,"2025-03-05",Delivered,Same Day
+50478,10128,"2025-10-07",Returned,Same Day
+50479,10010,"2025-01-26",Shipped,Express
+50480,10246,"2025-07-11",Shipped,Express
+50481,10290,"2025-05-29",Delivered,Express
+50482,10093,"2024-01-27",Delivered,Standard
+50483,10016,"2024-10-14",Delivered,Express
+50484,10272,"2025-01-01",Shipped,Standard
+50485,10082,"2024-04-12",Delivered,Standard
+50486,10137,"2025-06-30",Processing,Same Day
+50487,10029,"2024-08-12",Delivered,Express
+50488,10182,"2024-06-26",Delivered,Same Day
+50489,10163,"2025-12-15",Delivered,Same Day
+50490,10015,"2025-12-21",Shipped,Same Day
+50491,10289,"2024-05-25",Delivered,Standard
+50492,10253,"2025-07-09",Delivered,Express
+50493,10020,"2024-04-02",Delivered,Same Day
+50494,10113,"2024-01-21",Delivered,Standard
+50495,10170,"2025-09-20",Delivered,Standard
+50496,10175,"2024-06-30",Cancelled,Express
+50497,10031,"2024-01-23",Delivered,Same Day
+50498,10073,"2024-04-23",Processing,Express
+50499,10038,"2025-01-17",Shipped,Same Day
+50500,10203,"2025-08-23",Delivered,Express
+50501,10166,"2024-05-19",Returned,Same Day
+50502,10224,"2025-10-16",Returned,Same Day
+50503,10163,"2024-06-27",Shipped,Same Day
+50504,10183,"2024-08-16",Delivered,Standard
+50505,10194,"2024-11-10",Shipped,Express
+50506,10066,"2024-06-30",Shipped,Same Day
+50507,10294,"2025-02-04",Processing,Same Day
+50508,10017,"2024-07-05",Delivered,Same Day
+50509,10114,"2025-10-16",Delivered,Express
+50510,10073,"2024-12-05",Shipped,Standard
+50511,10178,"2024-11-23",Delivered,Standard
+50512,10172,"2025-04-02",Delivered,Standard
+50513,10128,"2025-12-10",Delivered,Express
+50514,10056,"2024-01-02",Delivered,Express
+50515,10215,"2024-06-19",Cancelled,Express
+50516,10194,"2024-12-25",Delivered,Standard
+50517,10246,"2025-08-14",Delivered,Same Day
+50518,10116,"2024-06-15",Delivered,Standard
+50519,10151,"2024-01-21",Delivered,Standard
+50520,10038,"2024-12-16",Delivered,Express
+50521,10083,"2024-03-17",Delivered,Standard
+50522,10174,"2025-08-31",Returned,Express
+50523,10016,"2025-03-17",Cancelled,Standard
+50524,10223,"2024-06-09",Delivered,Express
+50525,10106,"2024-07-13",Delivered,Same Day
+50526,10277,"2024-09-28",Delivered,Express
+50527,10122,"2024-04-08",Delivered,Same Day
+50528,10282,"2025-05-17",Delivered,Express
+50529,10002,"2025-03-13",Delivered,Same Day
+50530,10246,"2024-07-23",Delivered,Standard
+50531,10088,"2025-10-15",Delivered,Standard
+50532,10243,"2024-04-28",Delivered,Express
+50533,10242,"2025-05-15",Cancelled,Express
+50534,10047,"2025-10-19",Delivered,Standard
+50535,10190,"2025-01-25",Delivered,Express
+50536,10023,"2024-09-26",Delivered,Express
+50537,10116,"2024-10-02",Delivered,Standard
+50538,10050,"2024-03-28",Delivered,Same Day
+50539,10212,"2025-08-26",Delivered,Standard
+50540,10199,"2025-06-19",Delivered,Same Day
+50541,10244,"2025-08-09",Cancelled,Express
+50542,10154,"2024-03-21",Delivered,Same Day
+50543,10018,"2025-05-29",Delivered,Same Day
+50544,10293,"2025-11-24",Returned,Standard
+50545,10062,"2025-04-04",Delivered,Standard
+50546,10109,"2024-07-16",Delivered,Express
+50547,10041,"2025-11-30",Delivered,Same Day
+50548,10076,"2025-09-01",Delivered,Same Day
+50549,10035,"2024-03-30",Delivered,Express
+50550,10283,"2024-11-29",Processing,Same Day
+50551,10235,"2024-01-13",Shipped,Same Day
+50552,10268,"2025-03-05",Delivered,Standard
+50553,10076,"2025-08-03",Delivered,Standard
+50554,10055,"2025-07-30",Shipped,Express
+50555,10275,"2024-12-18",Processing,Express
+50556,10197,"2025-11-01",Delivered,Same Day
+50557,10243,"2024-02-08",Delivered,Express
+50558,10074,"2025-09-25",Delivered,Same Day
+50559,10206,"2024-02-09",Delivered,Express
+50560,10122,"2024-02-20",Shipped,Express
+50561,10191,"2024-01-21",Delivered,Express
+50562,10160,"2024-10-14",Processing,Same Day
+50563,10051,"2024-08-21",Delivered,Same Day
+50564,10227,"2024-11-24",Delivered,Express
+50565,10046,"2024-07-11",Delivered,Express
+50566,10249,"2025-06-12",Processing,Standard
+50567,10264,"2024-06-11",Delivered,Same Day
+50568,10260,"2025-02-17",Delivered,Same Day
+50569,10292,"2024-01-30",Delivered,Standard
+50570,10030,"2024-09-12",Delivered,Standard
+50571,10185,"2025-12-22",Delivered,Express
+50572,10238,"2025-06-01",Delivered,Standard
+50573,10016,"2024-09-04",Delivered,Same Day
+50574,10229,"2024-06-30",Returned,Express
+50575,10283,"2024-12-24",Delivered,Express
+50576,10047,"2024-10-18",Delivered,Standard
+50577,10084,"2025-08-08",Shipped,Standard
+50578,10114,"2025-10-24",Delivered,Standard
+50579,10138,"2025-10-29",Delivered,Standard
+50580,10005,"2025-04-30",Cancelled,Same Day
+50581,10089,"2025-09-07",Processing,Standard
+50582,10130,"2025-09-14",Processing,Express
+50583,10141,"2025-03-09",Cancelled,Express
+50584,10236,"2024-09-15",Delivered,Express
+50585,10267,"2025-09-30",Delivered,Standard
+50586,10004,"2025-06-07",Returned,Express
+50587,10288,"2025-10-24",Delivered,Express
+50588,10153,"2025-12-01",Delivered,Standard
+50589,10173,"2024-10-10",Delivered,Express
+50590,10134,"2025-11-02",Shipped,Same Day
+50591,10153,"2024-07-11",Delivered,Standard
+50592,10030,"2025-09-06",Delivered,Express
+50593,10072,"2024-01-27",Delivered,Express
+50594,10133,"2025-03-04",Delivered,Same Day
+50595,10019,"2025-08-20",Shipped,Same Day
+50596,10098,"2024-12-17",Shipped,Standard
+50597,10274,"2025-10-15",Shipped,Same Day
+50598,10184,"2025-06-03",Delivered,Standard
+50599,10286,"2024-07-04",Delivered,Express
+50600,10066,"2024-09-21",Shipped,Same Day
+50601,10094,"2025-11-27",Cancelled,Same Day
+50602,10046,"2024-08-15",Delivered,Same Day
+50603,10158,"2025-03-06",Shipped,Express
+50604,10191,"2024-09-23",Delivered,Express
+50605,10061,"2025-04-26",Delivered,Same Day
+50606,10299,"2025-08-17",Cancelled,Standard
+50607,10242,"2024-07-18",Delivered,Same Day
+50608,10196,"2025-06-26",Delivered,Standard
+50609,10078,"2024-05-20",Returned,Express
+50610,10210,"2025-08-06",Cancelled,Express
+50611,10074,"2024-11-19",Processing,Standard
+50612,10042,"2025-05-14",Delivered,Standard
+50613,10161,"2025-10-11",Delivered,Express
+50614,10141,"2024-08-02",Shipped,Standard
+50615,10296,"2024-06-11",Delivered,Standard
+50616,10067,"2025-09-21",Delivered,Express
+50617,10207,"2025-03-15",Returned,Express
+50618,10003,"2024-02-08",Delivered,Same Day
+50619,10192,"2024-01-15",Cancelled,Same Day
+50620,10098,"2024-01-19",Delivered,Same Day
+50621,10128,"2024-08-19",Shipped,Express
+50622,10160,"2024-05-12",Delivered,Same Day
+50623,10157,"2024-06-20",Delivered,Standard
+50624,10153,"2024-10-24",Delivered,Same Day
+50625,10269,"2024-12-11",Delivered,Same Day
+50626,10069,"2024-12-16",Returned,Express
+50627,10184,"2024-07-11",Delivered,Express
+50628,10010,"2024-08-21",Delivered,Standard
+50629,10109,"2024-01-23",Delivered,Standard
+50630,10064,"2025-01-10",Shipped,Standard
+50631,10193,"2025-10-17",Delivered,Same Day
+50632,10025,"2025-08-31",Returned,Same Day
+50633,10056,"2025-10-31",Processing,Standard
+50634,10060,"2025-03-02",Delivered,Standard
+50635,10281,"2024-09-15",Delivered,Standard
+50636,10106,"2025-12-12",Shipped,Standard
+50637,10155,"2025-03-06",Delivered,Same Day
+50638,10267,"2024-10-03",Delivered,Same Day
+50639,10071,"2025-03-04",Processing,Standard
+50640,10262,"2025-09-24",Delivered,Standard
+50641,10055,"2025-05-24",Delivered,Standard
+50642,10135,"2025-06-19",Returned,Express
+50643,10210,"2024-10-29",Delivered,Same Day
+50644,10255,"2024-07-31",Shipped,Express
+50645,10170,"2024-08-28",Delivered,Same Day
+50646,10046,"2024-04-23",Processing,Same Day
+50647,10253,"2024-06-01",Cancelled,Same Day
+50648,10039,"2024-04-13",Cancelled,Same Day
+50649,10119,"2025-04-12",Returned,Express
+50650,10136,"2025-04-20",Delivered,Standard
+50651,10021,"2024-10-24",Delivered,Same Day
+50652,10161,"2025-03-12",Shipped,Standard
+50653,10024,"2024-01-10",Processing,Same Day
+50654,10088,"2024-12-02",Delivered,Express
+50655,10138,"2024-04-05",Delivered,Express
+50656,10094,"2024-04-26",Delivered,Express
+50657,10140,"2025-01-29",Shipped,Express
+50658,10216,"2025-10-26",Cancelled,Standard
+50659,10058,"2024-05-15",Shipped,Standard
+50660,10082,"2024-04-16",Delivered,Same Day
+50661,10248,"2025-08-05",Delivered,Standard
+50662,10195,"2025-01-02",Delivered,Same Day
+50663,10067,"2025-05-09",Cancelled,Standard
+50664,10211,"2025-03-27",Delivered,Express
+50665,10161,"2024-01-13",Shipped,Same Day
+50666,10269,"2025-08-13",Shipped,Standard
+50667,10174,"2025-06-15",Delivered,Same Day
+50668,10049,"2025-03-19",Delivered,Standard
+50669,10247,"2024-12-20",Delivered,Same Day
+50670,10198,"2024-06-01",Processing,Same Day
+50671,10028,"2024-01-12",Delivered,Standard
+50672,10259,"2025-04-25",Processing,Standard
+50673,10039,"2025-05-18",Delivered,Express
+50674,10143,"2024-02-21",Delivered,Same Day
+50675,10194,"2025-02-16",Processing,Standard
+50676,10236,"2025-03-30",Processing,Express
+50677,10046,"2025-05-25",Delivered,Standard
+50678,10255,"2025-10-31",Delivered,Express
+50679,10212,"2024-02-06",Delivered,Standard
+50680,10047,"2025-09-10",Returned,Same Day
+50681,10156,"2025-06-04",Delivered,Same Day
+50682,10234,"2024-12-15",Delivered,Standard
+50683,10115,"2025-04-10",Delivered,Same Day
+50684,10243,"2025-11-03",Delivered,Express
+50685,10059,"2024-04-09",Shipped,Standard
+50686,10002,"2024-12-15",Delivered,Same Day
+50687,10150,"2025-07-14",Delivered,Same Day
+50688,10055,"2024-02-16",Cancelled,Express
+50689,10072,"2025-02-23",Delivered,Same Day
+50690,10101,"2024-07-11",Delivered,Express
+50691,10111,"2025-04-13",Processing,Standard
+50692,10174,"2024-04-20",Shipped,Standard
+50693,10064,"2025-04-06",Delivered,Same Day
+50694,10259,"2024-05-17",Returned,Standard
+50695,10272,"2024-02-19",Delivered,Express
+50696,10300,"2025-05-09",Cancelled,Standard
+50697,10297,"2024-06-26",Shipped,Standard
+50698,10054,"2025-01-31",Delivered,Same Day
+50699,10165,"2025-05-31",Cancelled,Express
+50700,10128,"2024-10-07",Delivered,Express
+50701,10151,"2025-04-08",Processing,Standard
+50702,10212,"2025-09-08",Shipped,Same Day
+50703,10263,"2024-11-02",Processing,Same Day
+50704,10161,"2025-12-29",Shipped,Same Day
+50705,10112,"2024-07-24",Delivered,Same Day
+50706,10149,"2025-12-04",Delivered,Same Day
+50707,10068,"2025-12-28",Delivered,Standard
+50708,10258,"2025-07-09",Shipped,Express
+50709,10060,"2024-12-26",Delivered,Same Day
+50710,10293,"2025-11-14",Shipped,Same Day
+50711,10274,"2024-10-19",Processing,Express
+50712,10007,"2025-06-19",Delivered,Express
+50713,10075,"2024-02-24",Delivered,Standard
+50714,10137,"2024-06-13",Returned,Same Day
+50715,10129,"2024-05-29",Processing,Same Day
+50716,10152,"2024-07-27",Shipped,Standard
+50717,10184,"2025-04-08",Delivered,Same Day
+50718,10288,"2024-08-17",Shipped,Same Day
+50719,10200,"2024-08-31",Delivered,Same Day
+50720,10148,"2025-12-10",Delivered,Express
+50721,10199,"2025-03-02",Cancelled,Same Day
+50722,10161,"2025-07-19",Delivered,Same Day
+50723,10129,"2024-07-26",Delivered,Express
+50724,10116,"2025-10-10",Shipped,Same Day
+50725,10189,"2025-08-25",Delivered,Same Day
+50726,10101,"2024-07-17",Delivered,Standard
+50727,10039,"2024-07-10",Returned,Same Day
+50728,10264,"2024-05-02",Delivered,Express
+50729,10143,"2025-07-23",Delivered,Standard
+50730,10300,"2024-09-18",Delivered,Express
+50731,10080,"2024-02-10",Delivered,Express
+50732,10027,"2025-10-02",Delivered,Same Day
+50733,10155,"2025-05-17",Shipped,Same Day
+50734,10184,"2024-03-15",Shipped,Express
+50735,10270,"2024-08-13",Cancelled,Same Day
+50736,10035,"2025-06-01",Delivered,Same Day
+50737,10275,"2025-02-17",Delivered,Standard
+50738,10110,"2025-11-10",Delivered,Express
+50739,10151,"2024-08-11",Cancelled,Same Day
+50740,10272,"2025-05-01",Returned,Same Day
+50741,10005,"2024-04-27",Delivered,Express
+50742,10124,"2025-10-19",Delivered,Same Day
+50743,10125,"2024-02-10",Shipped,Express
+50744,10196,"2024-04-26",Delivered,Same Day
+50745,10145,"2024-01-26",Cancelled,Express
+50746,10264,"2025-06-04",Delivered,Standard
+50747,10152,"2025-10-29",Delivered,Same Day
+50748,10043,"2024-04-08",Delivered,Same Day
+50749,10274,"2024-01-08",Delivered,Standard
+50750,10110,"2025-12-02",Delivered,Standard
+50751,10106,"2025-07-04",Processing,Same Day
+50752,10223,"2025-10-24",Processing,Standard
+50753,10079,"2024-01-25",Delivered,Express
+50754,10020,"2024-03-30",Delivered,Standard
+50755,10129,"2025-07-25",Delivered,Standard
+50756,10133,"2025-02-21",Delivered,Same Day
+50757,10208,"2025-03-19",Delivered,Express
+50758,10061,"2025-07-01",Delivered,Same Day
+50759,10033,"2025-08-22",Delivered,Standard
+50760,10184,"2025-05-29",Delivered,Same Day
+50761,10155,"2025-09-13",Delivered,Express
+50762,10196,"2025-02-08",Processing,Standard
+50763,10243,"2024-06-09",Delivered,Standard
+50764,10201,"2025-07-12",Delivered,Same Day
+50765,10074,"2024-11-01",Delivered,Same Day
+50766,10192,"2024-01-12",Delivered,Same Day
+50767,10073,"2024-05-06",Delivered,Same Day
+50768,10202,"2025-07-04",Delivered,Standard
+50769,10157,"2024-08-03",Shipped,Same Day
+50770,10177,"2024-08-04",Delivered,Same Day
+50771,10263,"2024-05-25",Delivered,Standard
+50772,10130,"2024-07-17",Delivered,Same Day
+50773,10291,"2024-02-25",Processing,Same Day
+50774,10237,"2025-10-22",Delivered,Express
+50775,10035,"2024-09-13",Delivered,Same Day
+50776,10298,"2025-05-13",Cancelled,Express
+50777,10066,"2025-11-18",Delivered,Standard
+50778,10146,"2025-09-26",Delivered,Standard
+50779,10163,"2025-05-12",Delivered,Same Day
+50780,10157,"2025-12-11",Delivered,Same Day
+50781,10291,"2025-01-08",Processing,Express
+50782,10087,"2024-01-05",Delivered,Standard
+50783,10224,"2024-10-10",Processing,Standard
+50784,10170,"2025-05-06",Delivered,Express
+50785,10157,"2025-05-13",Delivered,Standard
+50786,10042,"2024-10-14",Processing,Standard
+50787,10276,"2024-07-20",Delivered,Same Day
+50788,10040,"2024-03-18",Cancelled,Same Day
+50789,10016,"2025-08-18",Delivered,Same Day
+50790,10109,"2024-02-07",Delivered,Same Day
+50791,10277,"2025-04-28",Delivered,Standard
+50792,10188,"2025-02-05",Delivered,Same Day
+50793,10149,"2024-05-17",Delivered,Same Day
+50794,10047,"2025-02-10",Delivered,Standard
+50795,10123,"2025-09-20",Shipped,Same Day
+50796,10072,"2025-04-01",Delivered,Same Day
+50797,10290,"2025-11-06",Processing,Standard
+50798,10248,"2025-01-02",Delivered,Express
+50799,10119,"2024-03-05",Delivered,Standard
+50800,10022,"2025-11-15",Delivered,Express
+50801,10199,"2025-04-25",Cancelled,Standard
+50802,10021,"2025-10-26",Delivered,Same Day
+50803,10267,"2025-10-10",Processing,Same Day
+50804,10135,"2025-08-15",Delivered,Standard
+50805,10193,"2025-10-31",Delivered,Same Day
+50806,10040,"2025-06-13",Delivered,Standard
+50807,10265,"2025-02-19",Delivered,Express
+50808,10250,"2025-05-08",Cancelled,Standard
+50809,10257,"2024-05-22",Delivered,Standard
+50810,10040,"2025-06-10",Delivered,Standard
+50811,10077,"2024-07-10",Delivered,Same Day
+50812,10061,"2025-11-07",Delivered,Express
+50813,10059,"2025-05-08",Delivered,Express
+50814,10108,"2025-08-27",Delivered,Express
+50815,10012,"2024-09-06",Delivered,Same Day
+50816,10083,"2024-05-17",Delivered,Standard
+50817,10294,"2024-05-30",Delivered,Express
+50818,10093,"2025-06-13",Cancelled,Same Day
+50819,10289,"2025-10-14",Delivered,Same Day
+50820,10146,"2024-03-28",Delivered,Same Day
+50821,10242,"2025-05-08",Delivered,Express
+50822,10074,"2025-08-19",Processing,Standard
+50823,10262,"2024-09-27",Delivered,Same Day
+50824,10176,"2025-04-09",Delivered,Standard
+50825,10118,"2025-01-22",Delivered,Standard
+50826,10009,"2024-07-26",Delivered,Same Day
+50827,10215,"2024-06-02",Delivered,Standard
+50828,10244,"2025-09-21",Delivered,Same Day
+50829,10258,"2024-04-30",Delivered,Same Day
+50830,10067,"2025-09-09",Delivered,Standard
+50831,10221,"2025-06-18",Delivered,Standard
+50832,10272,"2025-03-15",Delivered,Express
+50833,10196,"2024-12-24",Delivered,Same Day
+50834,10295,"2024-04-10",Delivered,Express
+50835,10245,"2024-08-26",Cancelled,Standard
+50836,10146,"2025-09-04",Processing,Express
+50837,10132,"2024-07-12",Delivered,Same Day
+50838,10004,"2025-08-14",Delivered,Same Day
+50839,10004,"2025-01-19",Delivered,Same Day
+50840,10162,"2025-02-22",Delivered,Standard
+50841,10219,"2025-10-29",Delivered,Express
+50842,10275,"2025-03-09",Delivered,Same Day
+50843,10142,"2025-11-27",Delivered,Standard
+50844,10212,"2025-07-19",Shipped,Express
+50845,10092,"2025-01-14",Delivered,Express
+50846,10130,"2024-11-10",Delivered,Same Day
+50847,10204,"2024-05-21",Processing,Same Day
+50848,10061,"2024-08-23",Delivered,Same Day
+50849,10083,"2024-04-12",Delivered,Express
+50850,10174,"2025-07-17",Delivered,Same Day
+50851,10027,"2024-06-13",Delivered,Same Day
+50852,10003,"2024-04-03",Processing,Express
+50853,10223,"2024-03-31",Delivered,Standard
+50854,10190,"2024-03-22",Delivered,Same Day
+50855,10197,"2025-02-14",Delivered,Same Day
+50856,10147,"2025-12-29",Returned,Standard
+50857,10090,"2025-10-17",Delivered,Standard
+50858,10104,"2025-11-03",Cancelled,Same Day
+50859,10147,"2024-07-18",Delivered,Same Day
+50860,10262,"2025-06-12",Shipped,Same Day
+50861,10087,"2025-11-21",Delivered,Standard
+50862,10001,"2024-06-10",Delivered,Express
+50863,10205,"2024-12-27",Delivered,Express
+50864,10103,"2025-06-14",Delivered,Same Day
+50865,10036,"2024-04-02",Delivered,Same Day
+50866,10287,"2025-08-19",Delivered,Express
+50867,10116,"2025-09-12",Returned,Express
+50868,10207,"2025-08-11",Delivered,Standard
+50869,10209,"2025-06-02",Delivered,Standard
+50870,10258,"2024-10-28",Delivered,Standard
+50871,10263,"2024-09-20",Processing,Same Day
+50872,10129,"2025-12-11",Delivered,Express
+50873,10289,"2025-05-10",Shipped,Express
+50874,10235,"2025-11-28",Delivered,Same Day
+50875,10015,"2025-05-08",Delivered,Standard
+50876,10196,"2025-10-10",Shipped,Standard
+50877,10118,"2024-11-19",Delivered,Express
+50878,10265,"2025-07-02",Delivered,Express
+50879,10128,"2024-10-21",Delivered,Same Day
+50880,10176,"2024-03-18",Delivered,Standard
+50881,10244,"2024-11-17",Delivered,Same Day
+50882,10138,"2024-07-06",Cancelled,Same Day
+50883,10098,"2025-05-25",Shipped,Standard
+50884,10124,"2024-09-28",Delivered,Standard
+50885,10128,"2025-09-25",Delivered,Standard
+50886,10062,"2024-03-21",Delivered,Same Day
+50887,10253,"2025-09-20",Delivered,Same Day
+50888,10022,"2025-05-08",Delivered,Express
+50889,10253,"2025-08-11",Processing,Express
+50890,10094,"2025-06-07",Delivered,Standard
+50891,10296,"2024-05-11",Delivered,Express
+50892,10245,"2025-07-07",Delivered,Express
+50893,10202,"2025-12-03",Shipped,Express
+50894,10062,"2025-12-16",Delivered,Express
+50895,10005,"2024-01-13",Delivered,Express
+50896,10298,"2024-04-13",Delivered,Same Day
+50897,10133,"2024-07-10",Delivered,Standard
+50898,10138,"2025-04-27",Cancelled,Express
+50899,10188,"2024-07-07",Delivered,Standard
+50900,10215,"2025-12-18",Shipped,Express
+50901,10206,"2024-10-13",Delivered,Same Day
+50902,10068,"2025-08-12",Shipped,Standard
+50903,10139,"2024-08-29",Delivered,Express
+50904,10101,"2024-05-29",Processing,Same Day
+50905,10077,"2025-04-29",Processing,Standard
+50906,10216,"2025-05-26",Delivered,Same Day
+50907,10265,"2025-06-30",Shipped,Express
+50908,10154,"2024-09-13",Delivered,Same Day
+50909,10025,"2025-02-11",Delivered,Standard
+50910,10031,"2024-08-08",Processing,Express
+50911,10050,"2025-04-05",Shipped,Express
+50912,10185,"2025-01-03",Delivered,Express
+50913,10177,"2024-01-21",Delivered,Express
+50914,10102,"2025-08-13",Delivered,Same Day
+50915,10276,"2024-06-27",Returned,Express
+50916,10182,"2024-11-28",Delivered,Express
+50917,10229,"2024-03-21",Delivered,Express
+50918,10238,"2025-10-08",Cancelled,Standard
+50919,10173,"2025-03-07",Delivered,Same Day
+50920,10208,"2024-03-14",Delivered,Express
+50921,10117,"2024-11-17",Delivered,Express
+50922,10137,"2025-09-11",Delivered,Express
+50923,10228,"2025-01-06",Shipped,Same Day
+50924,10231,"2025-02-27",Delivered,Standard
+50925,10065,"2024-08-28",Delivered,Same Day
+50926,10041,"2024-08-03",Delivered,Standard
+50927,10049,"2024-03-06",Cancelled,Express
+50928,10281,"2024-02-25",Delivered,Express
+50929,10269,"2024-03-26",Delivered,Same Day
+50930,10080,"2024-03-27",Delivered,Express
+50931,10159,"2024-08-22",Delivered,Express
+50932,10227,"2025-10-03",Delivered,Same Day
+50933,10088,"2024-01-30",Delivered,Express
+50934,10167,"2025-05-02",Delivered,Same Day
+50935,10140,"2025-07-15",Delivered,Same Day
+50936,10277,"2024-06-30",Delivered,Express
+50937,10289,"2025-03-21",Delivered,Same Day
+50938,10274,"2024-11-13",Cancelled,Express
+50939,10277,"2024-08-20",Processing,Express
+50940,10158,"2025-01-09",Delivered,Standard
+50941,10156,"2024-01-11",Delivered,Standard
+50942,10177,"2024-10-20",Delivered,Standard
+50943,10252,"2025-05-03",Delivered,Express
+50944,10150,"2025-09-03",Delivered,Standard
+50945,10281,"2025-01-17",Delivered,Same Day
+50946,10224,"2025-02-08",Delivered,Same Day
+50947,10200,"2025-01-22",Delivered,Standard
+50948,10217,"2025-10-02",Delivered,Same Day
+50949,10140,"2024-10-18",Delivered,Same Day
+50950,10138,"2025-02-26",Delivered,Standard
+50951,10094,"2024-05-19",Delivered,Same Day
+50952,10234,"2025-09-24",Delivered,Same Day
+50953,10252,"2024-07-11",Delivered,Standard
+50954,10026,"2025-07-01",Delivered,Standard
+50955,10145,"2024-10-02",Delivered,Express
+50956,10005,"2024-08-26",Delivered,Standard
+50957,10253,"2024-08-10",Delivered,Express
+50958,10256,"2025-01-15",Delivered,Standard
+50959,10170,"2024-03-23",Processing,Standard
+50960,10029,"2024-09-29",Shipped,Standard
+50961,10279,"2025-04-26",Delivered,Express
+50962,10196,"2024-01-13",Delivered,Same Day
+50963,10128,"2025-01-29",Shipped,Express
+50964,10127,"2024-02-04",Delivered,Same Day
+50965,10049,"2025-06-17",Delivered,Standard
+50966,10243,"2025-02-02",Shipped,Express
+50967,10166,"2024-06-11",Delivered,Standard
+50968,10282,"2025-06-17",Delivered,Express
+50969,10153,"2024-07-22",Delivered,Standard
+50970,10112,"2024-04-25",Delivered,Express
+50971,10167,"2024-01-16",Delivered,Express
+50972,10300,"2024-05-02",Delivered,Standard
+50973,10005,"2024-02-13",Delivered,Same Day
+50974,10244,"2025-12-05",Delivered,Express
+50975,10046,"2024-09-11",Delivered,Standard
+50976,10174,"2025-10-02",Delivered,Express
+50977,10079,"2025-12-19",Delivered,Standard
+50978,10065,"2025-05-14",Delivered,Same Day
+50979,10178,"2025-03-25",Shipped,Standard
+50980,10194,"2025-01-01",Shipped,Express
+50981,10021,"2025-05-11",Shipped,Same Day
+50982,10151,"2025-07-09",Shipped,Standard
+50983,10291,"2024-07-10",Delivered,Express
+50984,10240,"2024-10-08",Processing,Same Day
+50985,10284,"2024-06-13",Delivered,Standard
+50986,10231,"2024-10-29",Processing,Same Day
+50987,10188,"2025-04-09",Delivered,Same Day
+50988,10260,"2025-01-23",Shipped,Standard
+50989,10187,"2025-09-27",Delivered,Same Day
+50990,10033,"2025-11-05",Returned,Express
+50991,10098,"2025-06-20",Shipped,Same Day
+50992,10079,"2025-09-19",Delivered,Express
+50993,10165,"2024-04-23",Delivered,Same Day
+50994,10035,"2024-02-14",Processing,Standard
+50995,10092,"2024-02-02",Delivered,Express
+50996,10099,"2024-04-11",Delivered,Same Day
+50997,10199,"2025-11-04",Delivered,Same Day
+50998,10132,"2024-02-20",Delivered,Same Day
+50999,10037,"2024-01-14",Cancelled,Standard
+51000,10252,"2024-03-22",Delivered,Same Day
+50061,10229,"2024-08-07",Returned,Express
+50076,10094,"2024-05-12",Cancelled,Standard
