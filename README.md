@@ -14,7 +14,7 @@ An end-to-end e-commerce analytics project that transforms customer, order, prod
 2. [Business Objectives and Questions](#2-business-objectives-and-questions)
 3. [Project Workflow](#3-project-workflow)
 4. [Dataset and Tables](#4-dataset-and-tables)
-5\. [SQL Analysis and Data Profiling](#5-sql-analysis-and-data-profiling)
+5. [SQL Analysis and Data Profiling](#5-sql-analysis-and-data-profiling)
 6. [Data Cleaning and Quality Decisions](#6-data-cleaning-and-quality-decisions)
 7. [Power BI Data Model](#7-power-bi-data-model)
 8. [DAX Measures and KPI Logic](#8-dax-measures-and-kpi-logic)
